@@ -3,8 +3,6 @@
 **Cantus** is a modern Christian mobile application designed to help churches, choirs, and worship teams organize, track, and plan their singing.  
 It lets users log songs sung in past services, organize them by theme or occasion, and get intelligent recommendations for future worship — promoting thoughtful variety and order.
 
----
-
 ## Features
 
 - **Song Management:** Add, edit, and categorize songs your church knows or is learning.
@@ -13,8 +11,6 @@ It lets users log songs sung in past services, organize them by theme or occasio
 - **Categorization:** Group songs by language, theme, or season.
 - **Search & Filter:** Quickly find songs and related details.
 - **Simple, Elegant UI:** A clean interface that reflects the reverence of worship.
-
----
 
 ## Tech Stack
 
